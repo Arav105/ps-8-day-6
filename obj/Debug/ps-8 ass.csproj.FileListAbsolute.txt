@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ps8\ps-8 ass\bin\Debug\ps-8 ass.exe.config
+C:\Users\Admin\source\repos\ps8\ps-8 ass\bin\Debug\ps-8 ass.exe
+C:\Users\Admin\source\repos\ps8\ps-8 ass\bin\Debug\ps-8 ass.pdb
+C:\Users\Admin\source\repos\ps8\ps-8 ass\obj\Debug\ps-8 ass.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ps8\ps-8 ass\obj\Debug\ps-8 ass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ps8\ps-8 ass\obj\Debug\ps-8 ass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ps8\ps-8 ass\obj\Debug\ps-8 ass.exe
+C:\Users\Admin\source\repos\ps8\ps-8 ass\obj\Debug\ps-8 ass.pdb
